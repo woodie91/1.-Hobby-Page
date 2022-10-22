@@ -1,0 +1,52 @@
+
+#Demon {
+    font-size: xx-large;
+    text-align: center;
+}
+
+h1, h2 {
+    font-family: 'Special Elite', cursive;
+    padding: 20px;
+    background-color: whitesmoke;
+}
+
+#nav_bar {
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+}
+
+body {
+    background-color: white ;
+    text-align: center;
+    color: green;
+
+}
+
+img {
+    height: 15rem;
+    width: 30rem;
+}
+
+ol, p {
+    list-style: none;
+    color: grey;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15px;
+}
+
+
+#showdate, #showtime, h3 {
+    color: tomato;
+    font-size: medium;
+    text-align:center
+}
+
+p {
+    color: white;
+    text-align: center;
+}
